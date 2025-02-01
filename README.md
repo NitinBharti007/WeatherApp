@@ -77,7 +77,7 @@ A modern weather application providing real-time weather updates with a sleek us
 - **Challenge**: Responsive Layout for Various Screen Sizes
 - **Solution**: Used CSS Grid with media queries and relative units (em, rem) for fluid scaling
 
--**Challenge**: API Rate Limiting
+- **Challenge**: API Rate Limiting
 - **Solution**: Implemented client-side caching using localStorage to reduce API calls
 
 - **Challenge**: Geolocation Permission Handling
